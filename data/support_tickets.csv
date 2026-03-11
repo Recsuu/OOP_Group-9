@@ -1,0 +1,4 @@
+ticketId,employeeNumber,reportedByUsername,employeeName,departmentOrRole,title,category,description,imagePath,priority,status,submittedAt,completedAt,completedBy
+TK-2FFAC9D1,10005,it_10005,-,IT,adwdwadwa,Network Issue,awdawdwawd,,High,Completed,2026-03-11T05:45:44.459088500,2026-03-11T05:46:04.676561500,it_10005,,
+TK-59E76CEE,10020,emp_10020,-,EMPLOYEE,adwaw,Printer Issue,waddwaadw,,Medium,Completed,2026-03-11T05:48:40.040615,2026-03-11T06:15:17.732081500,adwwaaw,it_10005,2026-03-11T06:15:17.732081500
+TK-303B6102,10023,emp_10023,emp_10023,EMPLOYEE,Blue Screen,Computer Issue,adwdww,,High,Pending,2026-03-11T06:03:51.635724,2026-03-11T16:37:28.827535800,sefesfesfesfsef,it_10005,2026-03-11T16:35:47.395778800
